@@ -38,3 +38,4 @@ Scroll down or [click here](https://github.com/Arnab0999?tab=repositories) to se
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Arnab0999)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab0999&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
