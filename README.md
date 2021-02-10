@@ -7,8 +7,8 @@ I love to solve problems on data structures and algorithms 🤖.
 I am also an art lover, I love to have my time with pencil/brush and paper 🎨📝. 
 </p>
 
-- 🔭 I’m currently working on Machine learning
-- 🌱 I’m currently learning Natural language processing
+- 🔭 I’m currently working on Web development
+- 🌱 I’m currently learning Angular
 
 - 🤔 I’m looking for help with Anything
 - 💬 Ask me about C++
