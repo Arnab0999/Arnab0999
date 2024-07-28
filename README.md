@@ -21,13 +21,13 @@ I am a Senior Software Engineer and Full-Stack Web Developer with over 3 years o
 
 ## 🛠 Projects
 
-### [Warehouse Management System (WMS 3.0)](https://github.com/Arnab0999/WMS)
+### [Warehouse Management System (WMS 3.0)]
 Developed a complex SaaS product from scratch using Ruby on Rails, Angular, and Postgres, handling critical features and third-party integrations.
 
-### [Parcel Tracking, OMS, Digital Shelf, Operation Experience](https://github.com/Arnab0999/ParcelTracking)
+### [Parcel Tracking, OMS, Digital Shelf, Operation Experience]
 Worked on various projects, designed front-end applications, and provided solutions for translation, responsive UI, and optimization.
 
-### [Job Match for Students and Companies](https://github.com/Arnab0999/JobMatch)
+### [Job Match for Students and Companies](https://github.com/Arnab0999/JobPost)
 Created a job-matching website using JSP for the front-end and Java Servlet for the back-end, hosted on AWS EC2 with a MySQL database.
 
 ## 📚 Education
