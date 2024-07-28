@@ -21,7 +21,7 @@ I am a Senior Software Engineer and Full-Stack Web Developer with over 3 years o
 
 ## 🛠 Projects
 
-### [Warehouse Management System (WMS 3.0)](https://anchanto.com/product/)
+### [Warehouse Management System (WMS 3.0)](https://anchanto.com/product/warehouse-management/)
 Developed a complex SaaS product from scratch using Ruby on Rails, Angular, and Postgres, handling critical features and third-party integrations.
 
 ### [Parcel Tracking, OMS, Digital Shelf, Operation Experience](https://anchanto.com/product/)
