@@ -1,41 +1,58 @@
-<h1 align="center"> Hi there 👋, Welcome to my GitHub Profile<br/> </h1> 
-<p align="center">
-I'm currently studying at Jadavpur University (IN) with a specialisation in Information Technology 👨‍💻.
-I am a web 🕸️ and cloud 🌨️ enthusiast. I have worked on different technologies on web and I love to implement AWS cloud technoloies to my websites.
-I also have interest in blockchain and crypto currencies 💱.
-I love to solve problems on data structures and algorithms 🤖.
-I am also an art lover, I love to have my time with pencil/brush and paper 🎨📝. 
-</p>
+# Hi there, I'm Arnab Sardar 👋
 
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning Angular
+![Profile Views](https://komarev.com/ghpvc/?username=Arnab0999&color=blue)
 
-- 🤔 I’m looking for help with Anything
-- 💬 Ask me about C++
-- 📫 How to reach me: Email me @arnabsardar099@gmail.com
-<!-- - 😄 Pronouns: ...
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: They created internet without the internet -->
+## About Me
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Where to find my projects?
+I am a Senior Software Engineer and Full-Stack Web Developer with over 3 years of experience in crafting innovative SaaS products from the ground up. I specialize in modern web frameworks and cloud technologies, focusing on creating robust, scalable, and efficient applications.
 
-Scroll down or [click here](https://github.com/Arnab0999?tab=repositories) to see all my repositories
+- 📍 Pune, Maharashtra, India
+- 📧 arnabsardar099@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/arnab-sardar-290537190)
+- 🔗 [Portfolio](https://github.com/Arnab0999)
 
-### Connect with me
+## 🚀 Skills
 
+- **Frontend:** Angular, ReactJS, NextJS, HTML/CSS/JavaScript/TypeScript, Sass
+- **Backend:** NodeJS/ExpressJS, Ruby on Rails, Java/JSP/Java Servlet
+- **Database:** SQL/MySQL/PostgreSQL, NoSQL/MongoDB
+- **Cloud:** AWS (EC2, RDS, S3)
+- **DevOps:** Docker, CI/CD, Git/Github
+- **Other:** Python, C/C++, Data Structures and Algorithms, Automation
 
-<p align="center">
-<a href="https://www.linkedin.com/in/arnab-sardar-290537190/">
-  <img align="left" alt="Arnab's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/people/Arnab-Sardar/100004714726349">
-  <img align="left" alt="Arnab's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/21/21155.svg" />
-</a>
-</p>
-<br /> 
-<hr/>
+## 🛠 Projects
 
+### [Warehouse Management System (WMS 3.0)](https://github.com/Arnab0999/WMS)
+Developed a complex SaaS product from scratch using Ruby on Rails, Angular, and Postgres, handling critical features and third-party integrations.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Arnab0999)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab0999&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+### [Parcel Tracking, OMS, Digital Shelf, Operation Experience](https://github.com/Arnab0999/ParcelTracking)
+Worked on various projects, designed front-end applications, and provided solutions for translation, responsive UI, and optimization.
+
+### [Job Match for Students and Companies](https://github.com/Arnab0999/JobMatch)
+Created a job-matching website using JSP for the front-end and Java Servlet for the back-end, hosted on AWS EC2 with a MySQL database.
+
+## 📚 Education
+
+**Bachelor's of Engineering in Information Technology**
+- Jadavpur University, West Bengal, India
+- CGPA: 8.3
+- Final Year Project: Brain Tumor Detection using Mask R-CNN [Published Paper](https://ijisae.org/index.php/IJISAE/article/view/2145)
+
+## 🏆 Achievements
+
+- **Led and Managed the Front-End Team for WMS at Anchanto**
+  - Successfully reduced the bug count from over 200 to fewer than 10.
+- **ACM East Hackathon 2020**
+  - Finalist and honorable mention (4th place) for developing a smart translator for the deaf and dumb.
+
+## 📈 GitHub Stats
+
+![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnab0999&show_icons=true&theme=radical)
+
+## 🔗 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/arnab-sardar-290537190)
+- [GitHub](https://github.com/Arnab0999)
+- [Email](mailto:arnabsardar099@gmail.com)
+
+Thanks for visiting my profile! 😊
