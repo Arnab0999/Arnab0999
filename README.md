@@ -9,7 +9,6 @@ I am a Senior Software Engineer and Full-Stack Web Developer with over 3 years o
 - 📍 Pune, Maharashtra, India
 - 📧 arnabsardar099@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnab-sardar-290537190)
-- 🔗 [Portfolio](https://github.com/Arnab0999)
 
 ## 🚀 Skills
 
@@ -45,9 +44,6 @@ Created a job-matching website using JSP for the front-end and Java Servlet for 
 - **ACM East Hackathon 2020**
   - Finalist and honorable mention (4th place) for developing a smart translator for the deaf and dumb.
 
-## 📈 GitHub Stats
-
-![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnab0999&show_icons=true&theme=radical)
 
 ## 🔗 Let's Connect
 
